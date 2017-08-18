@@ -1,0 +1,8 @@
+prefix=/home/kevinsun/Projects/Math_calculation/devel
+
+Name: cal_kin
+Description: Description of cal_kin
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kevinsun/Projects/Math_calculation/devel/lib 
+Requires: roscpp rospy std_msgs

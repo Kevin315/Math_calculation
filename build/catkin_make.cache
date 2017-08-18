@@ -1,0 +1,2 @@
+cal_kin
+-DCATKIN_DEVEL_PREFIX=/home/kevinsun/Projects/Math_calculation/devel -DCMAKE_INSTALL_PREFIX=/home/kevinsun/Projects/Math_calculation/install -G Unix Makefiles
